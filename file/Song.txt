@@ -1,0 +1,4 @@
+hướng đối tượng quá khó/pop/3:00/hiếu/lượng
+lớp trừu tượng/rock/4:00/hiếu/lượng
+interface/ballad/2:00/hiếu/lượng
+bug tùm lum/ballad/5:00/hiếu/lượng

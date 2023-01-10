@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="24c56154-1114-44cf-8f2f-2f4bef51883e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/file/Album.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/Song.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/person.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/person/MenuPeople.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/album/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/album/Album.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/album/MenuAlbum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/album/MenuAlbum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/album/processAlbum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/album/processAlbum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/person/People.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/person/People.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/person/processPeople.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/person/processPeople.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/song/MenuAlbum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/song/MenuSong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/song/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/song/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/song/processSong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/song/processSong.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JX3tFaSqDePryaMhJtpcuBbKRB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="manage-album" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="song.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="song.Main" />
+      <module name="manage-album" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="song.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.song.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24c56154-1114-44cf-8f2f-2f4bef51883e" name="Changes" comment="" />
+      <created>1672210815848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672210815848</updated>
+      <workItem from="1672210816495" duration="5368000" />
+      <workItem from="1672277108345" duration="23175000" />
+      <workItem from="1672310379133" duration="3707000" />
+      <workItem from="1672324022091" duration="7353000" />
+      <workItem from="1672362427613" duration="5845000" />
+      <workItem from="1672368379483" duration="1466000" />
+      <workItem from="1672370456980" duration="19069000" />
+      <workItem from="1672415528825" duration="596000" />
+      <workItem from="1672450723945" duration="25443000" />
+      <workItem from="1672553325769" duration="14883000" />
+      <workItem from="1672707938260" duration="20019000" />
+      <workItem from="1672744134527" duration="177000" />
+      <workItem from="1672760049734" duration="5984000" />
+      <workItem from="1672795122048" duration="23026000" />
+      <workItem from="1672845196306" duration="7661000" />
+      <workItem from="1672880974050" duration="16414000" />
+      <workItem from="1672930394371" duration="8576000" />
+      <workItem from="1672967447271" duration="11024000" />
+      <workItem from="1672982328318" duration="21000" />
+      <workItem from="1672982430252" duration="17432000" />
+      <workItem from="1673014658203" duration="13609000" />
+      <workItem from="1673064514370" duration="82000" />
+      <workItem from="1673150771315" duration="22187000" />
+      <workItem from="1673185351398" duration="4717000" />
+      <workItem from="1673198393984" duration="8710000" />
+      <workItem from="1673226509520" duration="8168000" />
+      <workItem from="1673237937196" duration="19637000" />
+      <workItem from="1673275790761" duration="6662000" />
+      <workItem from="1673313228922" duration="10213000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="chooseAlbum = &quot;12&quot;" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
