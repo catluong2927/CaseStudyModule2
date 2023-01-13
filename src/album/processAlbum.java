@@ -105,13 +105,13 @@ public class processAlbum {
 
     public void searchAlbumOfObj(People obj) {
         System.out.println("nhập tên Album muốn tìm kiếm");
-        String chooseAlbum = sc.nextLine();
+        String chooseAlbumOfObj = sc.nextLine();
         int checkId = -1;
-        if (searchAlbumByName(chooseAlbum) != null) {
-            checkId = searchAlbumByName(chooseAlbum).getId();
-        }
-        for (int element : obj.getListAlbum()) {
-            if (element == checkId) displayAlbumInfo(searchAlbumByName(chooseAlbum));
+        if (checkAlbum(chooseAlbumOfObj)) {
+            checkId = searchAlbumByName(chooseAlbumOfObj).getId();
+            for (int element : obj.getListAlbum()) {
+                if (element == checkId) System.out.println(displayAlbumInfo(searchAlbumById(checkId)));
+            }
         }
         if (checkId == -1) System.out.println("không tồn tại Album trong đối tượng này");
     }//

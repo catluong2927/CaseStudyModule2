@@ -2,3 +2,7 @@ hướng đối tượng quá khó/pop/3:00/hiếu/lượng
 lớp trừu tượng/rock/4:00/hiếu/lượng
 interface/ballad/2:00/hiếu/lượng
 bug tùm lum/ballad/5:00/hiếu/lượng
+úm ba la xì/pop/3:00/hiếu/phong
+ý ba la xùm/ballad/4:00/phong/lượng
+vợ người ta/ballad/3:30/phong/phong
+em là của anh/pop/4:00/phong/lượng

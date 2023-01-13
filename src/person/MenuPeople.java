@@ -55,6 +55,7 @@ public class MenuPeople {
                     } else System.out.println("không tìm thấy đối tượng");
                     MenuPeople.displayMenuPeople();
                     choice = sc.nextInt();
+                    sc.nextLine();
                 }
                 case 4 -> {
                     peoples.removePeople();

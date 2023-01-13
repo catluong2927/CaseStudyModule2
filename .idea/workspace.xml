@@ -5,20 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24c56154-1114-44cf-8f2f-2f4bef51883e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/file/Album.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/Song.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/person.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/person/MenuPeople.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/album/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/album/Album.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/Album.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file/Album.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/Song.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file/Song.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/person.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file/person.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/album/MenuAlbum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/album/MenuAlbum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/album/processAlbum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/album/processAlbum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/person/People.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/person/People.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/person/processPeople.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/person/processPeople.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/song/MenuAlbum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/song/MenuSong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/song/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/song/Song.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/song/processSong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/song/processSong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/person/MenuPeople.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/person/MenuPeople.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/song/MenuSong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/song/MenuSong.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,6 +120,12 @@
       <workItem from="1673237937196" duration="19637000" />
       <workItem from="1673275790761" duration="6662000" />
       <workItem from="1673313228922" duration="10213000" />
+      <workItem from="1673337731803" duration="246000" />
+      <workItem from="1673338323429" duration="253000" />
+      <workItem from="1673339385877" duration="193000" />
+      <workItem from="1673360001792" duration="1357000" />
+      <workItem from="1673489246673" duration="5976000" />
+      <workItem from="1673572308386" duration="1374000" />
     </task>
     <servers />
   </component>
@@ -136,6 +136,45 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/album/processAlbum.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/album/processAlbum.java</url>
+          <line>110</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/album/processAlbum.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/album/processAlbum.java</url>
+          <line>112</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/album/processAlbum.java</url>
+          <line>113</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/album/processAlbum.java</url>
+          <line>114</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/album/processAlbum.java</url>
+          <line>115</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="chooseAlbum = &quot;12&quot;" language="JAVA" />

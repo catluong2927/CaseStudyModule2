@@ -1,1 +1,2 @@
-codegym/pop/[3]
+codegym/pop/[3, 0, 4, 5]
+đa tình/pop/[6, 7]

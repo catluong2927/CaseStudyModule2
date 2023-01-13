@@ -17,7 +17,6 @@ public class MenuAlbum {
         System.out.println("*     4. Delete Album              *");
         System.out.println("*     5. Show Album list           *");
         System.out.println("*     6. Add songs to Album        *");
-        System.out.println("*     7. Show all Album list       *");
         System.out.println("*     0. Exit                      *");
         System.out.println("************************************");
     }

@@ -49,14 +49,6 @@ public class MenuSong {
                     MenuSong.displayMenu();
                     choice = sc.nextInt();
                 }
-                case 6 -> {
-                    songs.searchSongSinger();
-                    choice = sc.nextInt();
-                }
-                case 7 -> {
-                    songs.searchSongComposer();
-                    choice = sc.nextInt();
-                }
                 default -> {
                     System.out.println("vui lòng nhập đúng chức năng");
                     choice = sc.nextInt();
